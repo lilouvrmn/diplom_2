@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad3cde5c-c3fc-437c-9914-793a16d9abe3" name="Changes" comment="Добавила пом и код">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Order/IngredientsGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Order/OrderClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/User/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/User/Credentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/User/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/User/UserClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/User/UserGenerator.java" afterDir="false" />
+    <list default="true" id="ad3cde5c-c3fc-437c-9914-793a16d9abe3" name="Changes" comment="код">
+      <change afterPath="$PROJECT_DIR$/src/test/java/order/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/user/UserCreateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/user/UserLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/user/UserPatchTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Order/Ingredients.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/order/Ingredients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Order/IngredientsGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/order/IngredientsGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Order/OrderClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/order/OrderClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/User/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/User/Credentials.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/Credentials.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/User/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/User/UserClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/UserClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/User/UserGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/UserGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +53,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.OrderTest.executor": "Run",
+    "JUnit.UserCreateTest.executor": "Run",
+    "JUnit.UserLoginTest.executor": "Run",
+    "JUnit.UserPatchTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
@@ -80,13 +89,22 @@
       <option name="project" value="LOCAL" />
       <updated>1718195908258</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="код">
+      <option name="closed" value="true" />
+      <created>1718198628032</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718198628032</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test" />
     <MESSAGE value="Добавила пом и код" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавила пом и код" />
+    <MESSAGE value="код" />
+    <option name="LAST_COMMIT_MESSAGE" value="код" />
   </component>
 </project>

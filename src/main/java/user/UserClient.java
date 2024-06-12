@@ -1,7 +1,6 @@
-package User;
+package user;
 
 import io.restassured.response.ValidatableResponse;
-import praktikum.Client;
 
 import static io.restassured.RestAssured.given;
 

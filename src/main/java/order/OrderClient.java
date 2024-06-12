@@ -1,7 +1,7 @@
-package Order;
+package order;
 
 import io.restassured.response.ValidatableResponse;
-import io.restassured.specification.RequestSpecification;
+import user.Client;
 
 import static io.restassured.RestAssured.given;
 

@@ -1,4 +1,4 @@
-package Order;
+package order;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

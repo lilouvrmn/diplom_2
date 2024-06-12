@@ -1,4 +1,4 @@
-package Order;
+package order;
 
 public class IngredientsGenerator {
 
@@ -11,6 +11,6 @@ public class IngredientsGenerator {
     }
 
     public static Ingredients getIngredientsIncorrect() {
-        return new Ingredients(new String[]{"123", "456"});
+        return new Ingredients(new String[]{"111", "222"});
     }
 }
