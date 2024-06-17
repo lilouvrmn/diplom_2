@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad3cde5c-c3fc-437c-9914-793a16d9abe3" name="Changes" comment="код">
-      <change afterPath="$PROJECT_DIR$/src/test/java/order/OrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/user/UserCreateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/user/UserLoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/user/UserPatchTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Order/Ingredients.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/order/Ingredients.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Order/IngredientsGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/order/IngredientsGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Order/OrderClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/order/OrderClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/User/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/User/Credentials.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/Credentials.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/User/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/User/UserClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/UserClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/User/UserGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/UserGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/order/IngredientsGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/order/IngredientsGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "JUnit.OrderTest.executor": "Run",
-    "JUnit.UserCreateTest.executor": "Run",
-    "JUnit.UserLoginTest.executor": "Run",
-    "JUnit.UserPatchTest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;JUnit.OrderTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreateTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserLoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserPatchTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -106,5 +95,13 @@
     <MESSAGE value="Добавила пом и код" />
     <MESSAGE value="код" />
     <option name="LAST_COMMIT_MESSAGE" value="код" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="orders" />
+        <watch expression="orders" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
